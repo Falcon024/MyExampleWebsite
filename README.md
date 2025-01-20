@@ -4,7 +4,7 @@ Welcome to the repository for my personal website! This website is a simple, cle
 
 ## Demo
 
-You can visit the live version of my website here: [paulmendoza.me](http://paulmendoza.me)
+You can visit the live version of my website here: [paulmendoza.me](http://falcon024.github.io/MyWebsite/)
 
 ## Features
 
