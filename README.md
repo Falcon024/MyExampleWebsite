@@ -26,4 +26,4 @@ To run the website locally on your machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Falcon024/personal-website.git
+   git clone https://github.com/paulmendoza24/main.git
